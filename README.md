@@ -1,4 +1,4 @@
-# Ads_AB_test-  
+# A/B Testing of Marketing Campeign   
 ## Мета   
 Дослідити вплив нової рекламної кампанії на продажі   
 
