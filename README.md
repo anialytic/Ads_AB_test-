@@ -1,4 +1,4 @@
-# A/B Testing of Marketing Campeign   
+# A/B Testing of the Marketing Campaign   
 ## Мета   
 Дослідити вплив нової рекламної кампанії на продажі   
 
